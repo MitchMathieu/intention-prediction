@@ -1,2 +1,2 @@
 # intention-prediction
-An undergraduate research project
+An undergraduate research project by Mitch Mathieu
